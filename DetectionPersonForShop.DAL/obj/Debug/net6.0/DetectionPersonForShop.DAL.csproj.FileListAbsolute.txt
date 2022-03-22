@@ -1,0 +1,11 @@
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\bin\Debug\net6.0\DetectionPersonForShop.DAL.deps.json
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\bin\Debug\net6.0\DetectionPersonForShop.DAL.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\bin\Debug\net6.0\ref\DetectionPersonForShop.DAL.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\bin\Debug\net6.0\DetectionPersonForShop.DAL.pdb
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\obj\Debug\net6.0\DetectionPersonForShop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\obj\Debug\net6.0\DetectionPersonForShop.DAL.AssemblyInfoInputs.cache
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\obj\Debug\net6.0\DetectionPersonForShop.DAL.AssemblyInfo.cs
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\obj\Debug\net6.0\DetectionPersonForShop.DAL.csproj.CoreCompileInputs.cache
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\obj\Debug\net6.0\DetectionPersonForShop.DAL.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\obj\Debug\net6.0\ref\DetectionPersonForShop.DAL.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\obj\Debug\net6.0\DetectionPersonForShop.DAL.pdb

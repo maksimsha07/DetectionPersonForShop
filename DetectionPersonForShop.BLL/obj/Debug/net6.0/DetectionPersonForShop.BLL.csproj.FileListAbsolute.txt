@@ -1,0 +1,12 @@
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\bin\Debug\net6.0\DetectionPersonForShop.BLL.deps.json
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\bin\Debug\net6.0\DetectionPersonForShop.BLL.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\bin\Debug\net6.0\ref\DetectionPersonForShop.BLL.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\bin\Debug\net6.0\DetectionPersonForShop.BLL.pdb
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\obj\Debug\net6.0\DetectionPersonForShop.BLL.csproj.AssemblyReference.cache
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\obj\Debug\net6.0\DetectionPersonForShop.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\obj\Debug\net6.0\DetectionPersonForShop.BLL.AssemblyInfoInputs.cache
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\obj\Debug\net6.0\DetectionPersonForShop.BLL.AssemblyInfo.cs
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\obj\Debug\net6.0\DetectionPersonForShop.BLL.csproj.CoreCompileInputs.cache
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\obj\Debug\net6.0\DetectionPersonForShop.BLL.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\obj\Debug\net6.0\ref\DetectionPersonForShop.BLL.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\obj\Debug\net6.0\DetectionPersonForShop.BLL.pdb

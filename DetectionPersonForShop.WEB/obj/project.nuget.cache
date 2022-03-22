@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "inNdgA7cp99avIwovx80eZxBfhO505V690pVXqqN7ZKqlzcrOFQ14O/KCHzfbnxd1jzgZsmge8RceXO3niJMBQ==",
+  "success": true,
+  "projectFilePath": "D:\\DetectionPersonForShop\\DetectionPersonForShop\\DetectionPersonForShop.WEB\\DetectionPersonForShop.WEB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
