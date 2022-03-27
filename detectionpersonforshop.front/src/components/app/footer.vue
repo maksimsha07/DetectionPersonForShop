@@ -12,4 +12,4 @@
         </b-row>
         </b-container>
      </footer>
-</template>
+</template>   

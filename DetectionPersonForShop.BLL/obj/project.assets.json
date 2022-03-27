@@ -280,6 +280,21 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "DetectionPersonForShop.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.3",
+          "Npgsql": "6.0.3",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "6.0.3"
+        },
+        "compile": {
+          "bin/placeholder/DetectionPersonForShop.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DetectionPersonForShop.DAL.dll": {}
+        }
       }
     }
   },
@@ -730,10 +745,16 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "DetectionPersonForShop.DAL/1.0.0": {
+      "type": "project",
+      "path": "../DetectionPersonForShop.DAL/DetectionPersonForShop.DAL.csproj",
+      "msbuildProject": "../DetectionPersonForShop.DAL/DetectionPersonForShop.DAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "DetectionPersonForShop.DAL >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.3",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.3",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.3",
@@ -772,7 +793,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\DetectionPersonForShop\\DetectionPersonForShop\\DetectionPersonForShop.DAL\\DetectionPersonForShop.DAL.csproj": {
+              "projectPath": "D:\\DetectionPersonForShop\\DetectionPersonForShop\\DetectionPersonForShop.DAL\\DetectionPersonForShop.DAL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

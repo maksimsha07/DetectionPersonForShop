@@ -31,7 +31,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\DetectionPersonForShop\\DetectionPersonForShop\\DetectionPersonForShop.DAL\\DetectionPersonForShop.DAL.csproj": {
+                "projectPath": "D:\\DetectionPersonForShop\\DetectionPersonForShop\\DetectionPersonForShop.DAL\\DetectionPersonForShop.DAL.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
