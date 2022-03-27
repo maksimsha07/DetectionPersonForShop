@@ -9,3 +9,6 @@ D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\obj\
 D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\obj\Debug\net6.0\DetectionPersonForShop.DAL.dll
 D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\obj\Debug\net6.0\ref\DetectionPersonForShop.DAL.dll
 D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\obj\Debug\net6.0\DetectionPersonForShop.DAL.pdb
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\bin\Debug\net6.0\DetectionPersonForShop.DAL.runtimeconfig.json
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\obj\Debug\net6.0\DetectionPersonForShop.DAL.genruntimeconfig.cache
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.DAL\obj\Debug\net6.0\DetectionPersonForShop.DAL.csproj.AssemblyReference.cache

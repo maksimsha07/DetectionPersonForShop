@@ -20,3 +20,16 @@ D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\obj\
 D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\obj\Debug\net6.0\ref\DetectionPersonForShop.WEB.dll
 D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\obj\Debug\net6.0\DetectionPersonForShop.WEB.pdb
 D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\obj\Debug\net6.0\DetectionPersonForShop.WEB.genruntimeconfig.cache
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\bin\Debug\net6.0\Npgsql.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\bin\Debug\net6.0\DetectionPersonForShop.BLL.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\bin\Debug\net6.0\DetectionPersonForShop.DAL.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\bin\Debug\net6.0\DetectionPersonForShop.BLL.pdb
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\bin\Debug\net6.0\DetectionPersonForShop.DAL.pdb
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\obj\Debug\net6.0\DetectionPersonForShop.WEB.csproj.CopyComplete
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\bin\Debug\net6.0\Humanizer.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.WEB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
