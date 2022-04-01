@@ -167,6 +167,7 @@
       "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
       "DetectionPersonForShop.BLL/1.0.0": {
         "dependencies": {
+          "DetectionPersonForShop.DAL": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.3",
           "Npgsql": "6.0.3",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "6.0.3"

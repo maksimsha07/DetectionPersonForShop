@@ -33,5 +33,17 @@ namespace DetectionPersonForShop.BLL.Interfaces
         /// </summary>
         /// <param name="user">User</param>
         void DeleteUser(User user);
+        /// <summary>
+        /// Обновить информацию о пользователе
+        /// </summary>
+        /// <param name="NewUser">Новый пользователь(новые данные)</param>
+        /// <param name="OldUser">Старые данные о пользователе</param>
+        void UpdateUser(User NewUser, User OldUser);
+        /// <summary>
+        /// Добавить пользователя в БД
+        /// </summary>
+        /// <param name="user"></param>
+        /// <returns>Возвращает true, если пользователь создался правильно иначе false </returns>
+        bool CreateUser(User user);
     }
 }

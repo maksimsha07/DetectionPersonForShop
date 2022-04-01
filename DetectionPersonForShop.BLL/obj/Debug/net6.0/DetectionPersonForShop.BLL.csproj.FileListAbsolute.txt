@@ -12,3 +12,6 @@ D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\obj\
 D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\obj\Debug\net6.0\DetectionPersonForShop.BLL.pdb
 D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\bin\Debug\net6.0\DetectionPersonForShop.BLL.runtimeconfig.json
 D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\obj\Debug\net6.0\DetectionPersonForShop.BLL.genruntimeconfig.cache
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\bin\Debug\net6.0\DetectionPersonForShop.DAL.dll
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\bin\Debug\net6.0\DetectionPersonForShop.DAL.pdb
+D:\DetectionPersonForShop\DetectionPersonForShop\DetectionPersonForShop.BLL\obj\Debug\net6.0\DetectionPersonForShop.BLL.csproj.CopyComplete

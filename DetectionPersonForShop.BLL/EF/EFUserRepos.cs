@@ -13,11 +13,19 @@ namespace DetectionPersonForShop.BLL.EF
     {
         private EFDBContext context;
 
-        private EFUserRepos(EFDBContext context)
+        public EFUserRepos(EFDBContext context)
         {
             this.context = context;
         }
 
+        public bool CreateUser(User user)
+        {
+            User userl = context.Users.FirstOrDefault(x => x.Login == user.Login);
+            if (userl != null) return false;
+            context.Add(user);
+            context.SaveChanges();
+            return true;
+        }
 
         public void DeleteUser(User user)
         {
@@ -32,10 +40,17 @@ namespace DetectionPersonForShop.BLL.EF
 
         public User GetUserById(int id)
         {
-            throw new NotImplementedException();
+            User user = context.Users.FirstOrDefault(u => u.Id == id);
+            return user;
         }
 
         public void SaveUsers(User user)
+        {
+            context.Users.Add(user);
+            context.SaveChanges();
+        }
+
+        public void UpdateUser(User NewUser, User OldUser)
         {
             throw new NotImplementedException();
         }
