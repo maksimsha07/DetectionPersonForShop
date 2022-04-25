@@ -15,7 +15,7 @@ export default {
   name: "App",
   computed:{
     layout(){
-      return (this.$route.meta.layout || 'Main') + '-layout'
+      return (this.$route.meta.layout) + '-layout'
     }
   },
   components:{

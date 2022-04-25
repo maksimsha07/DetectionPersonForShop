@@ -8,8 +8,14 @@ const routes = [
   {
     path: '/',
     name: 'Home',
-    component: Home
+    meta: {layout:'Main'},
+    component: ()=>import('../views/Home.vue')
   },
+  {
+    path:'/Registration',
+    name: 'Registration',
+    component: ()=>import('../views/Registration/Registration.vue')
+  }
 ]
 
 const router = new VueRouter({
